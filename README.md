@@ -1,4 +1,4 @@
-# CarPricePrediction
+# Car Price Prediction
 
 Auto Scout data which using for this project, scraped from the on-line car trading company (https://www.autoscout24.com) in 2019, contains many features of 9 different car models ('Audi A1', 'Audi A3' , 'Opel Astra', 'Opel Corsa', 'Opel Insignia', 'Renault Clio', 'Renault Duster', 'Renault Espace')
 
